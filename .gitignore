@@ -1,0 +1,7 @@
+.notebook
+.terraform.lock.hcl
+.terraform
+eks-cluster.tf
+terraform.tfstate
+terraform.tfstate.backup
+.idea
